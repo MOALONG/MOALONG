@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MOALONG
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning android studio
-- 💞️ I’m looking to collaborate on app development
+- 💞️ welcome to my page
 - 📫 How to reach me moalongao77@gmai.com
 
 <!---
